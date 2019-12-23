@@ -1,0 +1,5 @@
+./gr input/adaptec1.capo70.2d.35.50.90.gr a1.out
+./gr input/adaptec2.mpl60.2d.35.20.100.gr a2.out
+./gr input/adaptec3.dragon70.2d.30.50.90.gr a3.out
+./gr input/adaptec4.aplace60.2d.30.50.90.gr a4.out
+./gr input/adaptec5.mfar50.2d.50.20.100.gr a5.out
